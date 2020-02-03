@@ -27,6 +27,10 @@ Codemy Öğrencisi bahane üretmez; önceliklerini belirler. Eğer ki o an için
 ### Öğrenci İletişimin Önemini ve Kuvvetini Kavramış Olacaklardır.
 Codemy öğrencisi -olur da- eğitimden hiçbir şey öğrenmeden ayrılması gibi bir durum söz konusu olursa bile öğrenmesini istediğimiz tek bir konu vardır: İletişim, iletişim, iletişim. Öğrenci iletişimin ne denli önemli olduğunu ve iş hayatına etkilerini kesin olarak kavrayacaktır.
 
+### Eğitim Süreci Boyunca, Din, İnanç Özgürlüğü ve Siyaset Gibi Konular Konuşulmaz.
+Eğitim içeriği anlatılan yayınlarda ya da WhatsApp, Discord gibi harici kanallarda hiçbir şekilde din, inanç özgürlüğü ya da siyaset konuşulmaz. Bu konulara ait; kişi, kurum ya da kuruluşlara ait linkler verilmez. Sebebi ne olursa olsun direkt ya da dolaylı yoldan bu konularla bağlantılı paylaşım yapan kişiler, uyarı olmaksızın, topluluktan uzaklaştırılırlar. 
+Davranış Kuralları'nın (Code of Conduct) en ciddi maddesi budur.
+
 ### Bilgi Eksikliği Sebebiyle Kimse Suçlanmayacağını Bilir.
 Codemy öğrencisi, sebebi ne olursa olsun, birisi soru sorduğunda; "Bunu nasıl bilmezsin!" gibi bir ifade takınmaz ve insanları kırmamaya özen gösterir. Eğitime katılan kimse, bir diğeri ile aynı eğitim geçmişine, aynı ilgi düzeyine veya aynı teknik beceriye sahip olmadığı için kimse bir diğerini, bilmediği konular için yermez veya kırmaz.
 
@@ -65,3 +69,5 @@ Eğitmen ve Öğrenci çalıştıkları alanlardaki etkinlikleri sıkı takip ed
 
 ### Eğitmen ve Öğrenci Bol Bol Blog ve Akademik Yazı Okurlar ve Yazmaya Çalışırlar
 Eğitmen ve Öğrenci okumanın önemi konusunda hemfikirdirler. Okumaktan kasıt hikaye veya roman değildir. Akademik kaynak okumak, dinlenmek amaçlı dahi yapılan bir eylemdir.
+
+Eğitime ya da topluluğumuza katılan tüm kişilerin bu kuralları kabul ettiği varsayılır.
