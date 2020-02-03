@@ -64,10 +64,10 @@ Eğitim boyunca pek çok konuda bilgi aşılaması yapılacaktır. Bu bilgiler, 
 ### Eğitmen ve Öğrenci Güncelleme Notlarını Takip Ederler.
 Eğitmen ve Öğrenci beraber mutlaka ve mutlaka tüm güncelleme notlarını takip ederler. Bu güncelleme notlarının içerisinde; işletim sistemi ve versiyonları, yazılım dili, kullanılan uygulama bileşenleri, kullanılan ide ve pluginleri, yardımcı kütüphaneler vs. bulunmaktadır.
 
-### Eğitmen ve Öğrenci Etkinlikleri Takip Ederler, Ettirirler
+### Eğitmen ve Öğrenci Etkinlikleri Takip Ederler, Ettirirler.
 Eğitmen ve Öğrenci çalıştıkları alanlardaki etkinlikleri sıkı takip ederler. Buralarda harcadıkları vakitleri kayıp olarak görmezler. Yeni gördükleri ve ihtiyacı olacağını düşündükleri tüm etkinliklere katılmak için çabalarlar. Sadece bunu yapmakla kalmaz, diğer arkadaşlarına da bu etkinlikler hakkında bilgi verirler ve katılmaları için motive ederler. Etkinliklerde edindikleri bilgileri arkadaşlarına aktarırlar.
 
-### Eğitmen ve Öğrenci Bol Bol Blog ve Akademik Yazı Okurlar ve Yazmaya Çalışırlar
+### Eğitmen ve Öğrenci Bol Bol Blog ve Akademik Yazı Okurlar ve Yazmaya Çalışırlar.
 Eğitmen ve Öğrenci okumanın önemi konusunda hemfikirdirler. Okumaktan kasıt hikaye veya roman değildir. Akademik kaynak okumak, dinlenmek amaçlı dahi yapılan bir eylemdir.
 
-Eğitime ya da topluluğumuza katılan tüm kişilerin bu kuralları kabul ettiği varsayılır.
+### Eğitime ya da topluluğumuza katılan tüm kişilerin bu kuralları kabul ettiği varsayılır.
